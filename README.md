@@ -3,8 +3,8 @@
 ## AI Safety Reading and Courses
 - [AI Safety Atlas](https://ai-safety-atlas.com/)
 - [AI Safety Map](https://www.aisafety.com/map)
-- [ML Safety course](https://course.mlsafety.org/)
-- [AI Safety Collab by European Network for AI safety (ENAIS)](https://www.enais.co/collab)
+- [ML Safety course - by Center for AI Safety](https://course.mlsafety.org/)
+- [AI Safety Collab - by European Network for AI safety (ENAIS)](https://www.enais.co/collab)
 
 ## Global pacts and coordinations
 - [Singapore Consensus on AI Safety priorities](https://aisafetypriorities.org/)
