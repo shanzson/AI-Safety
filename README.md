@@ -10,7 +10,7 @@
 - [Singapore Consensus on AI Safety priorities](https://aisafetypriorities.org/)
 
 ## AI Governance courses
-- [AI: Law, Policy, and Governance by London School of Economics (LSE)](https://www.getsmarter.com/products/lse-ai-law-policy-and-governance-online-certificate-course)
+- [AI: Law, Policy, and Governance - by London School of Economics (LSE)](https://www.getsmarter.com/products/lse-ai-law-policy-and-governance-online-certificate-course)
 
 ## AI Safety Communities
 - [FAR AI](https://far.ai/)
