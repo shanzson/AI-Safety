@@ -5,7 +5,8 @@
 - [AI Safety Map](https://www.aisafety.com/map)
 - [ML Safety course - by Center for AI Safety](https://course.mlsafety.org/)
 - [AI Safety Collab - by European Network for AI safety (ENAIS)](https://www.enais.co/collab)
-
+- [Risk from power seeking AIs](https://80000hours.org/problem-profiles/risks-from-power-seeking-ai/)
+  
 ## Global pacts and coordinations
 - [Singapore Consensus on AI Safety priorities](https://aisafetypriorities.org/)
 
