@@ -1,4 +1,4 @@
-# AI Safety Resources
+# Awesome AI Safety Resources
 
 ## AI Safety Reading and Courses
 - [AI Safety Atlas](https://ai-safety-atlas.com/)
@@ -6,6 +6,10 @@
 - [ML Safety course - by Center for AI Safety](https://course.mlsafety.org/)
 - [AI Safety Collab - by European Network for AI safety (ENAIS)](https://www.enais.co/collab)
 - [Risk from power seeking AIs](https://80000hours.org/problem-profiles/risks-from-power-seeking-ai/)
+
+## AI Safety checklist
+- [AI security checklist](https://shivang0.github.io/)
+- [EU AI Act compliance checklist](https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai)
   
 ## Global pacts and coordinations
 - [Singapore Consensus on AI Safety priorities](https://aisafetypriorities.org/)
