@@ -6,6 +6,7 @@
 - [ML Safety course - by Center for AI Safety](https://course.mlsafety.org/)
 - [AI Safety Collab - by European Network for AI safety (ENAIS)](https://www.enais.co/collab)
 - [Risk from power seeking AIs](https://80000hours.org/problem-profiles/risks-from-power-seeking-ai/)
+- [Singapore AI Alignment Workshop - by FAR.AI](https://www.youtube.com/watch?v=4o_-OewI2pU&list=PLpvkFqYJXcrfMrlK7CgPNU5-bl3qlArbg)
 
 ## AI Safety checklist
 - [AI security checklist](https://shivang0.github.io/)
